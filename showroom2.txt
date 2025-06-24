@@ -1,0 +1,7 @@
+Chevrolet,Malibu,Sedan,Silver,Petrol,560A,GHI234,Emily Davis,6543210987,987 Pine St,REG234,12-09-2024,28000,600,Loan,2024-03-05,QP03
+Nissan,Altima,Sedan,Red,Petrol,392P,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Hyundai,Elantra,Sedan,Gray,Petrol,432GP,MNO890,Sophia Martinez,4321098765,321 Birch St,REG890,15-07-2021,24000,490,Card,2023-10-15,QP01
+SalesPerson
+QP02,Michaelene Scotty,1985-04-15,173 Tcranton Ave,11,6%
+QP01,Dwightene Tchrute,1980-02-20,Dorm Beet St,12,5%
+QP03,Jam salpert,1982-06-14,346 Rock Rd,12,7%
